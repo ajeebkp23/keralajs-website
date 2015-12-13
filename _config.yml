@@ -16,8 +16,6 @@ url: http://yoursite.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults: /css/images/keralajs_log.png
-logo:
-    /css/images/keralajs_log.png
 
 # Directory
 source_dir: source

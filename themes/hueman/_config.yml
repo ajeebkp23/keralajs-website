@@ -11,6 +11,7 @@ menu:
   Home: /
   # Delete this row if you don't want categories in your header nav bar
   Categories:
+  Forum: https://groups.google.com/forum/#!forum/kerala-js
   About: /about/index.html
 
 # Article list grouped by year
@@ -28,12 +29,13 @@ scrollLoading: true
 # Sidebar
 sidebar: left # sidebar's position (left or right)
 social_links:
-  twitter:
-  facebook:
+  twitter: https://twitter.com/KeralaJS
+  facebook: https://www.facebook.com/groups/167550890111124/
   google-plus:
   github: https://github.com/ppoffice/hexo-theme-hueman
   weibo:
   rss:
+
 widgets:
 - recent_posts
 - category
@@ -44,7 +46,8 @@ widgets:
 
 # Links
 links:
-  Hexo: http://hexo.io
+  Facebook: https://www.facebook.com/groups/167550890111124/
+  Twitter: https://twitter.com/KeralaJS
 
 # Don't Use Google APIs if you are in google-blocked areas
 use_google_apis: false
