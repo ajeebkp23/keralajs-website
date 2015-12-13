@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: KeralaJS
+subtitle: Kerala JavaScript user group
 description:
-author: John Doe
-language:
+author: KeralaJS
+language: en
 timezone:
 
 # URL
@@ -15,7 +15,9 @@ timezone:
 url: http://yoursite.com
 root: /
 permalink: :year/:month/:day/:title/
-permalink_defaults:
+permalink_defaults: /css/images/keralajs_log.png
+logo:
+    /css/images/keralajs_log.png
 
 # Directory
 source_dir: source
@@ -63,7 +65,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape
+theme: hueman
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
