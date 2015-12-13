@@ -1,7 +1,10 @@
 # Logo Url
 # Please enter an absolute path to your logo file
 # or remove the following line with replacing logo-header.png with your own logo
-logo:
+logo: 
+    url: /css/images/keralajs_log.png
+    width: 100px
+    height: 100px
 
 # Header
 menu:
