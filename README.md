@@ -59,6 +59,17 @@ vim source/_posts/My-good-post.md
 or use admin
 [admin](http://localhost:4000/admin/)
 
+# Finally generate site
+``` bash
+hexo generate
+```
+Thus generated site is availabe at public folder
+You can try running html site by
+```bash
+cd public/ && python -m SimpleHTTPServer
+```
+Then go to 
+[localhost:8000](http://localhost:8000)
 # Docs
 [hexo.io](https://hexo.io/docs/)
 
